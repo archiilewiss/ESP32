@@ -1,0 +1,21 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "PlatformIO",
+			"task": "Monitor (az-delivery-devkit-v4)",
+			"problemMatcher": [
+				"$platformio"
+			],
+			"label": "PlatformIO: Monitor (az-delivery-devkit-v4)"
+		},
+		{
+			"type": "PlatformIO",
+			"task": "Devices",
+			"problemMatcher": [
+				"$platformio"
+			],
+			"label": "PlatformIO: Devices"
+		}
+	]
+}
